@@ -1,0 +1,25 @@
+body{
+ background-color: bisque;
+}
+h1{
+    color:blueviolet;
+
+}
+#id1{color: red;
+    background-color: tomato;
+}
+#id2{color:aqua;
+    background-color:rgb(224, 142, 41);
+}
+#id3{color:blue;
+    background-color:aqua;
+}
+#id4{color:thistle;
+    background-color:chocolate;
+}
+#id5{color:rgb(102, 41, 172);
+    background-color:rgb(99, 8, 102);
+}
+#id6{color:rgb(228, 169, 8);
+    background-color:rgb(30, 138, 210);
+}
